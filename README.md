@@ -38,9 +38,9 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/imarif69/imarif69/
