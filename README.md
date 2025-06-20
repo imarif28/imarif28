@@ -13,11 +13,14 @@
    - Bachelor Degree in Computer Science Engineering, 3.59/4.00
  #### 2. [SMA N 2 Sragen](https://sman2sragen.sch.id/) | MIPA | Sragen `2019-2022`
    - Graduated from high school in 2019 - 2020
- #### 2. [SMP Birrul Walidain Muhammadiyah Sragen](https://smpbirrulwalidainsragen.sch.id/)  | Sragen `2022-2022`
+ #### 3. [SMP Birrul Walidain Muhammadiyah Sragen](https://smpbirrulwalidainsragen.sch.id/)  | Sragen `2022-2022`
    - Graduated from high school in 2016 - 2019
    - Robotics extracurricular member
 
-### 🏆 Top Languages
+
+
+### Top Languages
+[![Felipe's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=imarif69&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/imarif69)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarif69&layout=compact&theme=radical)](https://github.com/imarif69/github-readme-stats)
 
 ##
@@ -35,15 +38,15 @@
 <br />
 
 ---
+
 ### Connect with me:
+<div> 
+  <a href="http://www.youtube.com/@ilhammuhammadarif8214" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ilham-muhammad-arif-751252369" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==#gh-dark-mode-only)
-
+ ##
 
 
 [webdev]: https://github.com/imarif69/imarif69/
