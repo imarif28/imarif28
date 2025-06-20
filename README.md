@@ -1,31 +1,23 @@
-# Hallo, Saya Arif - aka [Ilham Muhammad Arif](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==) 👋
+# Hi there, I'm  Arif - aka [ilhmarfff](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🔭 I’m currently a student at Politeknik Negeri Semarang Electrical Engineering majoring in Computer Engineering Technology.
+- 🌱 I’m currently learning C++, PHP, flutter, Python, and Dart
+- 👯 I’m looking to collaborate as Web Development
+- 🤔 I’m looking for Information and Communication Technology Internsip Partner
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: osis.ilham99@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | Collage Student of Computer Engineering Technology | Semarang `2022-Now`
+   - Bachelor Degree in Computer Science Engineering, 3.59/4.00
+ #### 2. [SMA N 2 Sragen](https://sman2sragen.sch.id/) | MIPA | Sragen `2019-2022`
+   - Graduated from high school in 2019 - 2020
+ #### 2. [SMP Birrul Walidain Muhammadiyah Sragen](https://smpbirrulwalidainsragen.sch.id/)  | Sragen `2022-2022`
+   - Graduated from high school in 2016 - 2019
+   - Robotics extracurricular member
 
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
+
 
 ### Languages and Tools:
 
@@ -42,17 +34,12 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==#gh-dark-mode-only)
 
 
 
