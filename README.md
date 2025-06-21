@@ -20,8 +20,8 @@
 
 
 ### Top Languages
-[![Arif's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=imarif69&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/imarif69)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarif69&layout=compact&theme=radical)](https://github.com/imarif69/github-readme-stats)
+[![Arif's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=imarif28&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/imarif28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarif28&layout=compact&theme=radical)](https://github.com/imari28/github-readme-stats)
 
 ##
 
@@ -49,4 +49,4 @@
  ##
 
 
-[webdev]: https://github.com/imarif69/imarif69/
+[webdev]: https://github.com/imarif28/imarif28/
