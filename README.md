@@ -1,4 +1,4 @@
-# Hi there, I'm  Arif - aka [ilhmarfff](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==) 👋
+# Hi there, I'm  Arif - aka [imarif28](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==) 👋
 ## About me:
 - 🔭 I’m currently a student at Politeknik Negeri Semarang Electrical Engineering majoring in Computer Engineering Technology.
 - 🌱 I’m currently learning C++, PHP, Mysql, Python, and Dart
