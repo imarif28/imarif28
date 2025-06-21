@@ -33,6 +33,7 @@
 [<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Dart" width="90px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/330px-PHP-logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Java" width="50px" src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
