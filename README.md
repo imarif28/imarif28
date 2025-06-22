@@ -12,10 +12,10 @@
 #### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | Collage Student of Computer Engineering Technology | Semarang `2022-Now`
    - Bachelor Degree in Computer Science Engineering, 3.59/4.00
  #### 2. [SMA N 2 Sragen](https://sman2sragen.sch.id/) | MIPA | Sragen `2019-2022`
-   - Graduated from high school in 2019 - 2020
+   - Graduated from high school in 2022
    - Robotics extracurricular member
  #### 3. [SMP Birrul Walidain Muhammadiyah Sragen](https://smpbirrulwalidainsragen.sch.id/)  | Sragen `2016-2019`
-   - Graduated from high school in 2016 - 2019
+   - Graduated from high school in 2019
    - Robotics extracurricular member
 
 
