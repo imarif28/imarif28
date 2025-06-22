@@ -1,7 +1,7 @@
 # Hi there, I'm  Arif - aka [imarif28](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==) 👋
 ## About me:
 - 🔭 I’m currently a student at Politeknik Negeri Semarang Electrical Engineering majoring in Computer Engineering Technology.
-- 🌱 I’m currently learning C++, PHP, Mysql, Python, and Dart
+- 🌱 I’m currently learning C++, C#, PHP, Mysql, Python, and Dart
 - 👯 I’m looking to collaborate as Web Development
 - 🤔 I’m looking for Information and Communication Technology Internsip Partner
 - 💬 Ask me about anything
@@ -32,6 +32,7 @@
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="C#" width="30px" src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Dart" width="90px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/330px-PHP-logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="50px" src="https://wp.logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png" style="padding-right:10px;" />][webdev]
