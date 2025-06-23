@@ -23,7 +23,7 @@
 ### Top Languages
 [![Arif's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=imarif28&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/imarif28)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarif28&layout=compact&theme=radical)](https://github.com/imarif28/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarif28)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
 
